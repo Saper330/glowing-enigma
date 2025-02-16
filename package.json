@@ -1,0 +1,20 @@
+{
+  "name": "glowing-enigma",
+  "version": "1.0.0",
+  "description": "<header>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saper330/glowing-enigma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saper330/glowing-enigma/issues"
+  },
+  "homepage": "https://github.com/Saper330/glowing-enigma#readme"
+}
