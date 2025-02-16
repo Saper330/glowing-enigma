@@ -1,3 +1,1 @@
-const mult = (a, b) => a * b;
-
-console.log(mult(2, 4));
+const hello = require('./js/hello')

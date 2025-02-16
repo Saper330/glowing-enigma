@@ -4,7 +4,7 @@
   "description": "<header>",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack --config webpack.config.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Saper330/glowing-enigma/issues"
   },
-  "homepage": "https://github.com/Saper330/glowing-enigma#readme"
+  "homepage": "https://github.com/Saper330/glowing-enigma#readme",
+  "dependencies": {
+    "webpack": "^5.98.0",
+    "webpack-cli": "^6.0.1"
+  }
 }
